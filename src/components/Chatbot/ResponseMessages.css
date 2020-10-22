@@ -1,0 +1,33 @@
+.response-box {
+	width: 100%;
+}
+
+.response-key-box {
+	margin: 6px;
+	padding: 8px 0px 8px 8px;
+	box-sizing: border-box;
+	background-color: #eeeef0;
+	text-align: center;
+	box-sizing: border-box;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+.response-key-heading {
+	width: 80%;
+	float: left;
+	text-transform: capitalize;
+}
+
+.material-icons {
+	float: left;
+}
+
+.description {
+	margin: 0px 8px;
+	clear: both;
+	box-sizing: border-box;
+	background-color: white;
+	text-align: center;
+	overflow-wrap: break-word;
+}
